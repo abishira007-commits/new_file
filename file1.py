@@ -1,0 +1,3 @@
+print("monday")
+
+print("tuesday")
